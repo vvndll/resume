@@ -108,8 +108,8 @@ export default function Home() {
 
               <ul>
                   <a href='https://instagram.com/vvaryev/' target='blank' rel='noopener noreferrer'>@vvaryev</a>
-                  <a href='https://vvndll.github.io/wendell-portfolio' target='blank' rel='noopener noreferrer'>https://vvndll.github.io/wendell-portfolio</a>
-                </ul>
+                  <a href='https://vvndll.github.io/wendell-portfolio' target='blank' rel='noopener noreferrer'><p>https://vvndll.github.io/wendell-portfolio</p></a>
+              </ul>
 
 
             </div>
